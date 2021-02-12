@@ -8,7 +8,7 @@ class MemberTest {
 
     @Test
     @DisplayName("정적 팩토리 메소드를 확인하는 테스트")
-    void saveEntity() {
+    void createMember() {
 
         // given
         String email = "a@aaa.com";
